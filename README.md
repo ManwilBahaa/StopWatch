@@ -28,7 +28,7 @@ This StopWatch project is designed to showcase the use of interrupts and timers 
 
 To replicate this project, you will need the following hardware components:
 
-![StopWatch](Proteus/Screenshot 2023-09-01 122838.png)
+![Circuit](https://github.com/ManwilBahaa/StopWatch/blob/main/Proteus/Screenshot%202023-09-01%20122838.png)
 
 - ATmega32 Microcontroller
 - LM016 LCD Display
