@@ -9,7 +9,6 @@ It incorporates concepts such as interrupts, timers, and utilizes hardware perip
 - [Introduction](#introduction)
 - [Features](#features)
 - [Hardware Components](#hardware-components)
-- [License](#license)
 
 ## Introduction
 
@@ -29,7 +28,7 @@ This StopWatch project is designed to showcase the use of interrupts and timers 
 
 To replicate this project, you will need the following hardware components:
 
-![StopWatch](https://drive.google.com/file/d/1CwFMk9rFK3ar96nQqgpJQsybTM5e7HjX/view?usp=sharing)
+![StopWatch](Proteus/Screenshot 2023-09-01 122838.png)
 
 - ATmega32 Microcontroller
 - LM016 LCD Display
